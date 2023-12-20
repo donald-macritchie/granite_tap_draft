@@ -58,9 +58,17 @@ body {
     border: 1px solid black !important;
 }
 
+.bg-black {
+    background: #000 !important;
+}
+
 #hero-text {
     font-size: 1.8em;
     color: #fff;
+}
+
+#my-account-dropdown{
+    font-size: 0.8em;
 }
 
 /* -------------------------------- Media Queries */
